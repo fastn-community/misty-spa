@@ -1,71 +1,77 @@
--- spa.page:
-full-width: true
-sidebar: false
+-- ws.page:
 
--- spa.hero-with-image: We transform ideas into digital outcomes.
-cta-primary: Learn More
-cta-primary-link: #content
-image: $assets.files.assets.landing.svg
+-- ws.page.popup:
+
+;; to be added
+
+-- end: ws.page.popup
+
+-- ws.hero-with-image: We transform ideas into digital outcomes.
+link: landing/
+cta-primary: Sign me up
+cta-primary-link: index.html
+input-placeholder: Enter your work email
+image: $assets.files.assets.hero.jpg
 
 We are an award-winning strategic design company that provides consultancy
 services and help you create outstanding digital products.
 
--- spa.content: Built for the next generation of small business
+-- ws.content: Built for the next generation of small business
 
 Fastn is an all-in-one payments platform where businesses can connect, transact,
 and grow together.
 
--- spa.hero-image-left: Create
-image: $assets.files.assets.left-img1.svg
+-- ws.hero-image-right: Easy payments  and invoicing
+image: $assets.files.assets.invoicing.png
+link: landing/
+cta-primary: Sign me up
+cta-primary-link: index.html
 
-Welcome Studio gives you all the tools you need to create and host virtual
-experiences that look awesome and put your brand centerstage.
+Pay and get paid like never before. Auto-generate promo-banners, send reminders, schedule payments, and instantly access money when someone pays you.
 
--- spa.hero-image-right: Engage
-image: $assets.files.assets.right-img.svg
+-- ws.hero-image-left: Better cash control with our flow
+image: $assets.files.assets.cash_control.png
+link: landing/
+cta-primary: Sign me up
+cta-primary-link: index.html
 
-Welcome Studio gives you all the tools you need to create and host virtual
-experiences that look awesome and put your brand centerstage.
+Can’t wait to get paid? Fastn Flow helps you avoid gaps in cash flow, stay flexible, and grow your business on your terms.
 
--- spa.hero-image-left: Analyze
-image: $assets.files.assets.left-img2.svg
+-- ws.hero-image-right: Smart dashboard, powerful integrations
+image: $assets.files.assets.smart_dashboard.png
+link: landing/
+cta-primary: Sign me up
+cta-primary-link: index.html
 
-Welcome Studio gives you all the tools you need to create and host virtual
-experiences that look awesome and put your brand centerstage.
+Our dashboard is simple to navigate and packed with useful features. It also integrates seamlessly with accounting platforms like Quickbooks.
 
--- spa.hero-with-image: Experiences
-image: $assets.files.assets.landing.svg
-align-right: true
+-- ws.content: Experiences
+image: $assets.files.assets.image.svg
 
 Lorem ipsum dolor sit amet
 
--- spa.banner-card: SEE HOW MUCH FASTER YOU CAN GET PAID WITH FASTN
+-- ws.banner-card: See how much faster you can get paid with fastn
 info-cards: $common.list-of-info-cards
 
 Use our calculator to see how many days we can free up in cash flow for your
 business.
 
--- spa.testimonials-card:
+-- ws.testimonials-card:
 testimonials: $common.list-of-testimonials
 nav: $common.navs
 
--- spa.features-card: We Transform ideas into digital outcomes
+-- ws.features-card: Why Fastn?
 features: $common.list-of-features
-tag: KICKER
 
-We are an award-winning strategic design company that provides consultancy
-services and help you create outstanding digital products.
+We’re putting your other payments platform in timeout.
 
--- spa.faqs: Frequently Asked Questions
-faqs-list: $common.list-of-faqs
-
-Flex is the only saas business platform that lets you run your business on one
-platform, seamlessly across all digital channels.
-
--- spa.logo-cloud: Trusted by the top companies in this industry
+-- ws.logo-cloud: Trusted by the top companies in this industry
 logo-list: $common.list-of-logos
 
-The only SaaS business platform that combines CRM, marketing automation &
-commerce.
+-- ws.faqs: Frequently Asked Questions
+faqs-list: $common.list-of-faqs
 
--- end: spa.page
+-- ws.search-card: Freakishly simple. Downright useful. Ready to make the jump?
+help-info: Sign up in 2 minutes
+
+-- end: ws.page
